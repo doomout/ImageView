@@ -24,6 +24,8 @@
 		AD5DD749294ECEA20086AE53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD5DD74C294ECEA20086AE53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD5DD74E294ECEA20086AE53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD5DD758294ED3550086AE53 /* lamp_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lamp_on.png; path = "../../../Doit!_스위프트로아이폰앱만들기입문_개정4판_소스/03장/본문실습이미지/lamp_on.png"; sourceTree = "<group>"; };
+		AD5DD759294ED3550086AE53 /* lamp_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lamp_off.png; path = "../../../Doit!_스위프트로아이폰앱만들기입문_개정4판_소스/03장/본문실습이미지/lamp_off.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,8 @@
 				AD5DD749294ECEA20086AE53 /* Assets.xcassets */,
 				AD5DD74B294ECEA20086AE53 /* LaunchScreen.storyboard */,
 				AD5DD74E294ECEA20086AE53 /* Info.plist */,
+				AD5DD759294ED3550086AE53 /* lamp_off.png */,
+				AD5DD758294ED3550086AE53 /* lamp_on.png */,
 			);
 			path = ImageView;
 			sourceTree = "<group>";
